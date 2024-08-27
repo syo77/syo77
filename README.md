@@ -16,3 +16,5 @@
 </p>
 
 ![Footer](https://github.com/syo77/syo77/blob/99603d0e13ec9cf5c37b534270ed74e09fc68cb0/footer.png)
+
+![Snake animation](https://github.com/syo77/snake/blob/main/snake.svg)
