@@ -4,7 +4,7 @@
 <a href="https://github.com/syo77"></a>
 
 </p>
-<h4 align="center">Learning to program in C and JS<br>Skills in HTML, CSS and Python</h5>
+<h4 align="center">Learning to program in C and JS<br>Skills in HTML, CSS and Python</h4>
 <p align="center">
            <img src="https://skillicons.dev/icons?i=c,py,js,html,css"/>
 </p>
