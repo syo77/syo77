@@ -40,7 +40,7 @@ Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
     align="left" 
     alt="GitHub Stats" 
     height="170" 
-    width="450" 
+    width="420" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=syo77&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -48,7 +48,7 @@ Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
       align="left" 
       alt="GitHub Stats" 
       height="170"
-      width="350" 
+      width="320" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=syo77&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
