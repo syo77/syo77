@@ -39,14 +39,14 @@ Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=syo77&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=syo77&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
