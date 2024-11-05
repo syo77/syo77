@@ -10,7 +10,7 @@ Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
         <img 
             alt="Perfil" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/syo77?color=2b313b&labelColor=2b313b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/syo77?color=323841&labelColor=2b313b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/yuri-victor-silva-a87171328/">
