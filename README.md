@@ -3,7 +3,7 @@
 **`Estudante de Ciência da Computação`**
 
 ### Me chamo Yuri Victor, tenho 19 anos e sou natural do Brasil. Concluí o ensino médio no Colégio Militar de Brasília. Atualmente, estou cursando Ciência da Computação no IESB.<br> Eu sou muito interessado em tecnologia, sou muito curioso para saber como as coisas funcionam.<br>
-Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
+### Tenho conhecimentos de: HTML/CSS, Python, Linguagem C e JS
 
 <p align="left">
     <a href="https://github.com/syo77">
