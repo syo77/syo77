@@ -1,6 +1,6 @@
 # Yuri Silva
 
-## **`Estudante de Ciência da Computação`**
+## **`Desenvolvedor Frontend`**
 
 ### Chamo-me Yuri Victor, tenho 19 anos e sou natural do Brasil. Concluí o ensino médio no Colégio Militar de Brasília. Atualmente, estou cursando Ciência da Computação no IESB.<br> Eu sou muito interessado em tecnologia e muito curioso para saber como as coisas funcionam.<br>
 ### Tenho conhecimentos de: HTML/CSS, Python, Linguagem C, JS e PHP
