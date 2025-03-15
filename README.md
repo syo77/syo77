@@ -28,7 +28,7 @@
 
 <p align="left">
     <img width="25%"
-     src="https://skillicons.dev/icons?i=c,py,php,html,css,js,sql"/>
+     src="https://skillicons.dev/icons?i=c,py,php,html,css,js,mysql"/>
 </p>
 
 <br/>
